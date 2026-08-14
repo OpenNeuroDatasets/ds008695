@@ -9,7 +9,7 @@ The dataset was acquired using a Philips Achieva dStream 3T scanner equipped wit
 
 The dataset is available in two variants:
 - raw data,
-- fully preprocessed and merged data (folder /derivatives/).
+- fully preprocessed and merged data (folder /derivatives/preproc/).
 
 All images are provided in the compressed NIfTI format.
 
