@@ -13,6 +13,11 @@ The dataset is available in two variants:
 
 All images are provided in the compressed NIfTI format.
 
+We provide also the DTI parameters estimated using the FSL v6 and streamlines corresponding to white matter bundles:
+- DTI parameters (folder /derivatives/measures/) – **185 MB**,
+- streamlines (folder /derivatives/tractography/) – **70 MB**.
+
+
 ## Participants (n = 11):
 
 Eleven healthy volunteers (5F/6M, aged: 24–48/23–45) have not reported any neurological or neuropsychiatric disorders, nor any head trauma in the past. Exclusion criteria: head trauma, volunteers not compatible with our scanning procedure (e.g., individuals with implants, pacemakers, intrauterine devices), and pregnant volunteers.
