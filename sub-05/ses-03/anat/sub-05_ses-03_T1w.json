@@ -1,0 +1,36 @@
+{
+    "ConversionSoftware": "dicm2nii.m 20260319",
+    "SeriesNumber": 201,
+    "SeriesDescription": "csT1W_3D_TFE",
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "T1",
+        "NONE"
+    ],
+    "Modality": "MR",
+    "RepetitionTime": 0.0081624002,
+    "ParallelReductionFactorInPlane": 2,
+    "ParallelAcquisitionTechnique": "CSENSE",
+    "EchoTime": 0.003734,
+    "PatientSex": "M",
+    "PatientPosition": "HFS",
+    "SliceThickness": 1,
+    "FlipAngle": 8,
+    "Manufacturer": "Philips",
+    "SoftwareVersion": "5.7.1\\5.7.1.5",
+    "MRAcquisitionType": "3D",
+    "InstitutionName": "Universidad de Valladolid",
+    "DeviceSerialNumber": "38117",
+    "ScanningSequence": "T1TFE",
+    "SequenceVariant": "GR",
+    "ScanOptions": "OTHER",
+    "SequenceName": "T1TFE",
+    "PixelSpacing": [
+        0.9375,
+        0.9375
+    ],
+    "ManufacturersModelName": "Achieva dStream",
+    "MagneticFieldStrength": 3,
+    "InstitutionAddress": "Hospital Clínico Universitario de Valladolid"
+}
