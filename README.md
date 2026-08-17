@@ -8,8 +8,8 @@ Laboratorio de Procesado de Imagen (LPI), ETSI Telecomunicación, Universidad de
 The dataset was acquired using a Philips Achieva dStream 3T scanner equipped with a 32-channel head coil. The gradient system has a maximum gradient strength of 62 mT/m and a maximum slew rate of 100 mT/m/ms. For each volunteer, the acquisition was divided into four sessions: two sessions performed on consecutive days (test data) and two repeated sessions performed one week later also on consecutive days (retest data). For one volunteer (sub-01), the test data were acquired during two sessions on the same day, whereas the retest data were acquired during two sessions on the same day one week later.
 
 The dataset is available in two variants:
-- raw data,
-- fully preprocessed and merged data (folder /derivatives/preproc/).
+- raw data – **8.3 GB**,
+- fully preprocessed and merged data (folder /derivatives/preproc/) – **39.5 GB**.
 
 All images are provided in the compressed NIfTI format.
 
