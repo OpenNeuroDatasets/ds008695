@@ -9,13 +9,13 @@ The dataset was acquired using a Philips Achieva dStream 3T scanner equipped wit
 
 The dataset is available in two variants:
 - raw data – **8.3 GB**,
-- fully preprocessed and merged data (folder /derivatives/preproc/) – **39.5 GB**.
+- fully preprocessed and merged data (folder: /derivatives/preproc/) – **39.5 GB**.
 
 All images are provided in the compressed NIfTI format.
 
-We provide also the DTI parameters estimated using the FSL v6 and streamlines corresponding to white matter bundles:
-- DTI parameters (folder /derivatives/measures/) – **185 MB**,
-- streamlines (folder /derivatives/tractography/) – **70 MB**.
+We also provide the DTI parameters estimated using FSL v6 and the streamlines corresponding to the white matter bundles:
+- DTI parameters (folder: /derivatives/measures/) – **178 MB**,
+- streamlines (folder: /derivatives/tractography/) – **409 MB**.
 
 
 ## Participants (n = 11):
