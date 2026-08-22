@@ -50,7 +50,7 @@ All files were anonymised at two levels:
 
 ## Reference for the dataset description:
 
-Pieciak T., Guadilla I., Ciupek D., Navarro-González R., Merino-Caviedes S., Villacorta‐Aylagas P., Magdaleno Humayor L., Villa Aparicio M., Rueda-Ramos J., Moro Boyero R., Tristán Vega A., A multi-b-value longitudinal test-retest diffusion MRI brain dataset for model validation and reproducibility assessment, 2026.
+Pieciak T., Guadilla I., Ciupek D., Navarro-González R., Merino-Caviedes S., Villacorta‐Aylagas P., Magdaleno Humayor L., Villa Aparicio M., Rueda-Ramos J., Santiesteban Mendo R., Moro Boyero R., Tristán Vega A., A multi-b-value longitudinal test-retest diffusion MRI brain dataset for model validation and reproducibility assessment, 2026.
 
 
 ## Funding:
