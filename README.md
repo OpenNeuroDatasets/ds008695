@@ -33,8 +33,8 @@ Eleven healthy volunteers (5F/6M, aged: 24–48/23–45) have not reported any n
 One additional non-diffusion-weighted volume per session was acquired in the posterior-anterior (PA).
 
 
-## Data anonymisation:
-All files were anonymised at two levels:
+## Data pseudonymisation:
+All files were pseudonymised at two levels prior to sharing:
   - removal of meta-information from the headers of the NIfTI and JSON files (diffusion-weighted MRI and T1-weighted MRI data),
   - face masking in T1-weighted MRI data.
 
