@@ -1,4 +1,4 @@
-# Multi-b-value test-retest diffusion MRI brain dataset
+# Multi-b-value longitudinal test-retest diffusion MRI brain dataset
 
 Laboratorio de Procesado de Imagen (LPI), ETSI Telecomunicación, Universidad de Valladolid, Valladolid, Spain
 
