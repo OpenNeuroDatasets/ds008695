@@ -1,2 +1,7 @@
+1.0.1 2026-11-18
+  - Updated *.bvec and *.json files for preprocessed data
+  - Updated white matter labels for preprocessed data
+  - Updated measures and tractography results for preprocessed data
+  - Added in-house Python codes
 1.0.0 2026-08-23
   - Dataset released
